@@ -1,4 +1,4 @@
-module github.com/yurykabanov/transactor
+module github.com/yurykabanov/go-transactor
 
 go 1.14
 

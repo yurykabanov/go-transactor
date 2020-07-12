@@ -11,7 +11,7 @@ import (
     "context"
     
     "github.com/jmoiron/sqlx"
-    "github.com/yurykabanov/transactor"
+    "github.com/yurykabanov/go-transactor"
 )
    
 var (
